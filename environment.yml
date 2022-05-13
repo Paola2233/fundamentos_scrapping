@@ -1,0 +1,9 @@
+name: larepublica_scrapper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - lxml
+  - requests
+  - autopep8
+prefix: /home/paola/miniconda3/envs/larepublica_scrapper
